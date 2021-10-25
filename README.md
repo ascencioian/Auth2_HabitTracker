@@ -6,7 +6,7 @@ This project is to use express and nodejs alongside a sign on and authentication
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, nodeJS, Express, mongoDB, Passport, bootstrap
+**Tech used:** HTML, Bootstrap, JavaScript, nodeJS, Express, mongoDB, Passport 
 
 This project is for working with CRUD application Express. When a user enters text in the input and presses submit this will trigger a get request. 
 
