@@ -1,4 +1,4 @@
-# My Awesome Project
+# Habit Tracker
 This project is to use express and nodejs alongside a sign on and authentication tool Passport. Users sign up for the service, and then sign in to the application. The application display the collective information that was submitted by all users. A user will put in a habit and click save and this information will be stored for them alongside checkboxes to represent each day in a month. Users can check off the days that they have completed their habit and share with others!
 
 **Link to project:**
